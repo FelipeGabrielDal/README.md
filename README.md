@@ -14,13 +14,8 @@ O Git é um software livre, distribuído sob os termos da versão 2 da GNU Gener
 ### 2.  O que é versionamento de software?
 
 
-GIT é um dos muitos sistemas para controle de versão. É rápido, possui um design simples, gratuito, fácil instalação, configuração e baixa curva de aprendizado.
-Segue abaixo alguns termos que você verá muitas vezes no terminal de comando e também de outros sistemas:
-Commit: Salvar alterações realizadas.
-Branch: Cria uma nova ramificação do projeto — assim como em uma árvore -, permitindo seguir várias “linhas” diferentes de desenvolvimento para o mesmo projeto.
-Clone: Copiar um projeto já existente de algum repositório para sua estação de trabalho.
-Fork: Faz a cópia do repositório para outro repositório(Um projeto em uma conta do Github para outra conta).
-Merge: Junção de branches.
+O versionamento de software é o processo de atribuir um nome único ou uma númeração única para indicar o estado de um programa de computador. Esses números são geralmente atribuídos de forma crescente e indicam o desenvolvimento de melhorias ou correção de falhas no software.
+
 
 
 
