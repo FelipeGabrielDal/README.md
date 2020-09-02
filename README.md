@@ -41,6 +41,16 @@ Facilidade na Fusão: os DVCS usam o rastreamento automático, o que facilita de
 Confiabilidade: com um sistema centralizado, qualquer problema que surja no servidor vai parar todo o trabalho de desenvolvimento. Um sistema distribuído permite que a equipa continue a trabalhar e os repositórios dos programadores servem como cópias de backup, não havendo riscos de perder nada do projecto.
 Redução de custos com o servidor: o repositório "central" (se ele existir) funciona como repositório "oficial", ao invés de ter uma função de processador central dos pedidos. Assim, a carga de processamento é distribuída pelas máquinas dos programadores.
 
+### 5. Qual a importância da utilização do controle de versionamento no desenvolvimento de software?
+
+Hoje em dia Em uma realidade marcada pela interconectividade e por organizações globais, as ameaças à segurança dos sistemas responsáveis por essas conexões têm o potencial de gerar grandes prejuízos. Como se não bastasse, elas se renovam e ressurgem a cada dia.
+
+O processo de versionamento permite a proteção do código-fonte do sistema. Já o sequenciamento lógico das atualizações serve como registro histórico para a análise dos erros e ataques sofridos, o que possibilita também a reformulação dos sistemas para versões mais robustas.
+
+
+
+
+
 
 
 
