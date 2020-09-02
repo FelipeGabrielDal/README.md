@@ -47,24 +47,6 @@ Hoje em dia Em uma realidade marcada pela interconectividade e por organizaçõe
 
 O processo de versionamento permite a proteção do código-fonte do sistema. Já o sequenciamento lógico das atualizações serve como registro histórico para a análise dos erros e ataques sofridos, o que possibilita também a reformulação dos sistemas para versões mais robustas.
 
-###  6. Cite pelo menos três ferramentas de controle de versão e faça um breve detalhamento  sobre cada  uma delas.
-
--CSV 
-A CVS é uma das ferramentas de controle de software mais antigas no mercado. A primeira versão dela foi desenvolvida em 1968. Essa ferramenta possui como maior desvantagem o fato de ser considerada como uma tecnologia antiga. Porém, ainda é bastante utilizada por equipes de desenvolvedores.
-
-É muito simples de ser operada. Isso significa que a sua equipe pode aprender rapidamente como usar todas as funcionalidades da CVS com eficiência.
-
-- Subversion
-No meio corporativo, o Subversion é uma ferramenta de controle de versão de software bastante utilizada. Ela é bastante rápida na execução das funcionalidades do sistema e ainda se mostra como uma das mais simples de ser empregada. Isso significa que com um conhecimento básico de conceitos relacionados ao controle de versão de software é possível executar comandos na ferramenta. A aprendizagem da equipe também é rápida nesse aspecto.
-
-Um dos problemas do Subversion são as críticas relacionadas à eficácia do software. No passado, essa ferramenta apresentou problemas na hora de executar as principais funções de um controle de versão de software eficiente. Porém, as últimas versões lançadas parecem ter solucionado tudo que foi apontado como desvantagem do programa.  Por fim, o Subversion é uma ferramenta de controle de versão centralizada. Isso significa que não é indicada para todas as equipes de TI, apenas para aquelas que são menores (com apenas algumas dezenas de desenvolvedores) e estão reunidas em um mesmo espaço físico.
-
-- TFS
-O TFS — sigla para Team Foundation Server — é uma outra ferramenta de controle de versão de software que pode ser utilizada na sua empresa. Ele traz uma série de características interessantes, principalmente se você utiliza metodologias agile no setor de TI da sua empresa.
-
-Isso porque ele possibilita a gestão de projetos por meio de SCRUM ou CMMI. Também permite a utilização de forma centralizada ou distribuída, sendo adequado tanto para equipes que compartilham o mesmo espaço físico quanto aquelas que trabalham à distância. Outra vantagem apresentada por esse sistema é o fato de não possuir limitações de crescimento e ter integração direta com o Microsoft Office.
-
-
 
 
 
