@@ -21,10 +21,10 @@ principais comandos do git
 	
 
 ##### Setar usuário
-	git config --global user.name "Leonardo Comelli"
+	git config --global user.name "Inserir nome"
 
 ##### Setar email
-	git config --global user.email leonardo@software-ltda.com.br
+	git config --global user.email inserir email
 	
 ##### Setar editor
 	git config --global core.editor vim
