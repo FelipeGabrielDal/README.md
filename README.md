@@ -13,7 +13,6 @@ O Git é um software livre, distribuído sob os termos da versão 2 da GNU Gener
 
 ### 2.  O que é versionamento de software?
 
-
 O versionamento de software é o processo de atribuir um nome único ou uma númeração única para indicar o estado de um programa de computador. Esses números são geralmente atribuídos de forma crescente e indicam o desenvolvimento de melhorias ou correção de falhas no software.
 
 ### 3. Por que utilizar o Git como controle de versionamento?
